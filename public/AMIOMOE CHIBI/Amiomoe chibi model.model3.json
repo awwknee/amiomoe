@@ -1,0 +1,18 @@
+{
+	"Version": 3,
+	"FileReferences": {
+		"Moc": "Amiomoe chibi model.moc3",
+		"Textures": [
+			"Amiomoe chibi model.8192/texture_00.png"
+		],
+		"Physics": "Amiomoe chibi model.physics3.json",
+		"DisplayInfo": "Amiomoe chibi model.cdi3.json"
+	},
+	"Groups": [
+		{
+			"Target": "Parameter",
+			"Name": "EyeBlink",
+			"Ids": []
+		}
+	]
+}
